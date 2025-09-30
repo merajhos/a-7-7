@@ -4,40 +4,40 @@ const Footer = () => {
   return (
     <div className="">
       <div>
-        <footer className="footer md:footer-horizontal bg-neutral text-neutral-content p-10 flex flex-wrap md:grid md:grid-cols-5">
+        <footer className="footer md:footer-horizontal bg-neutral text-neutral-content p-10 flex flex-wrap md:grid md:grid-cols-5 ">
           <nav >
-            <h6 className="text-md font-bold ">CS — Ticket System</h6>
+            <h6 className="text-md font-bold "> CS — Ticket System</h6>
             <p className=" text-gray-400">
               When picking a cricket  player a T20 all-rounder  is
-              often the best choice  due to their versatility. They
+              often the  best choice  due to their versatility. They
               can score quick  runs, hit big sixes, and  take
               crucial wickets.
             </p>
           </nav>
           <nav>
-            <h6 className="text-md font-bold ">Company</h6>
-            <a className="link link-hover text-gray-400">About us</a>
-            <a className="link link-hover text-gray-400">Our Mission</a>
-            <a className="link link-hover text-gray-400">Contact Saled</a>
+            <h6 className="text-md font-bold "> Company </h6>
+            <a className="link link-hover text-gray-400"> About us</a>
+            <a className="link link-hover text-gray-400"> Our Mission</a>
+            <a className="link link-hover text-gray-400"> Contact Saled</a>
           </nav>
           <nav>
             <h6 className="text-md font-bold ">Service</h6>
-            <a className="link link-hover text-gray-400">Products & Services</a>
-            <a className="link link-hover text-gray-400">Customer Stories</a>
-            <a className="link link-hover text-gray-400">Download Apps</a>
+            <a className="link link-hover text-gray-400"> Products & Services</a>
+            <a className="link link-hover text-gray-400"> Customer Stories</a>
+            <a className="link link-hover text-gray-400"> Download Apps</a>
           </nav>
           <nav>
             <h6 className="text-md font-bold ">Information</h6>
-            <a className="link link-hover text-gray-400">Privacy Policy</a>
-            <a className="link link-hover text-gray-400">Terms & Conditions</a>
-            <a className="link link-hover text-gray-400">Join Us</a>
+            <a className="link link-hover text-gray-400"> Privacy Policy</a>
+            <a className="link link-hover text-gray-400"> Terms & Conditions</a>
+            <a className="link link-hover text-gray-400"> Join Us</a>
           </nav>
           <nav>
             <h6 className="text-md font-bold ">Social Links</h6>
-            <a className="link link-hover text-gray-400">@CS — Twitter</a>
-            <a className="link link-hover text-gray-400">@CS — Instagram</a>
-            <a className="link link-hover text-gray-400">@CS — FaceBook</a>
-            <a className="link link-hover text-gray-400">ticketsystem12@gmail.com</a>
+            <a className="link link-hover text-gray-400"> @CS — Twitter</a>
+            <a className="link link-hover text-gray-400"> @CS — Instagram</a>
+            <a className="link link-hover text-gray-400"> @CS — FaceBook</a>
+            <a className="link link-hover text-gray-400"> ticketsystem12@gmail.com</a>
           </nav>
         </footer>
       </div>

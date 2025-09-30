@@ -12,7 +12,7 @@ const Navbar = () => {
         <a href="#" className="text-2xl font-bold text-black">Ticket System</a>
         <div className="hidden md:flex items-center space-x-6 ">
           <ul className="flex space-x-6">
-            <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600">Home</a></li>
+            <li><a href="#" className=" font-semibold  hover:text-gray-500 text-gray-600">Home</a></li>
             <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600">FAQ</a></li>
             <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600">Changelog</a></li>
             <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600">Blog</a></li>
