@@ -10,3 +10,6 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+git add .
+git commit -m"added"
+git push

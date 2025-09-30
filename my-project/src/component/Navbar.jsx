@@ -40,12 +40,12 @@ const Navbar = () => {
       <div className={`md:hidden ${isOpen ? 'block' : 'hidden'} mt-4`}>
         <ul className="flex flex-col space-y-4 items-center">
           
-            <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600">Home</a></li>
-            <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600">FAQ</a></li>
-            <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600">Changelog</a></li>
-            <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600">Blog</a></li>
-            <li><a href="#" className="font-semibold   hover:text-gray-500 text-gray-600">Download</a></li>
-            <li><a href="#" className="font-semibold   hover:text-gray-500 text-gray-600">Contact</a></li>
+            <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600"> Home</a></li>
+            <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600"> FAQ</a></li>
+            <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600"> Changelog</a></li>
+            <li><a href="#" className="font-semibold  hover:text-gray-500 text-gray-600"> Blog</a></li>
+            <li><a href="#" className="font-semibold   hover:text-gray-500 text-gray-600"> Download</a></li>
+            <li><a href="#" className="font-semibold   hover:text-gray-500 text-gray-600"> Contact</a></li>
             <li>
             <button className="bg-linear-to-tl from-[#932EE3] to-[#632EE3] text-white px-4 py-2 rounded-md w-full">
              + New Ticket
