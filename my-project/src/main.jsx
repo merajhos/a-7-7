@@ -16,6 +16,3 @@ createRoot(document.getElementById('root')).render(
 
 
 
-// git add .
-// git commit -m"added"
-// git push
