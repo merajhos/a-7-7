@@ -1,5 +1,5 @@
 import React from "react";
-const Banner = ({ inProgressCount, resolvedCount }) => {
+const StartsUp = ({ inProgressCount, resolvedCount }) => {
   return (
     <div>
       <div className="container mx-auto grid grid-cols-1  md:grid-cols-2 gap-8 my-5 h-52">
@@ -17,4 +17,4 @@ const Banner = ({ inProgressCount, resolvedCount }) => {
   );
 };
 
-export default Banner;
+export default StartsUp;
