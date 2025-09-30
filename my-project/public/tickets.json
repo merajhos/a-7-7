@@ -1,0 +1,212 @@
+[
+  {
+    "id": "#1001",
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still receive an 'Invalid Credentials' error. Issue started 2 hours ago.",
+    "customer": "Alice Johnson",
+    "priority": {
+      "label": "High"
+    },
+    "status": {
+      "label": "Open"
+    },
+    "assignee": "John Smith",
+    "createdAt": "2024-09-25"
+  },
+  {
+    "id": "#1002",
+    "title": "Broken Image Link on Product Page",
+    "description": "The main image for 'Product X' on the live site is a broken link (404 error). Affecting all customers viewing the page.",
+    "customer": "Marketing Team",
+    "priority": {
+      "label": "Medium"
+    },
+    "status": {
+      "label": "In Progress"
+    },
+    "assignee": "Emily Davis",
+    "createdAt": "2024-09-24"
+  },
+  {
+    "id": "#1003",
+    "title": "Request for Data Export Feature",
+    "description": "Customer requires the ability to export their transaction history for the past year into a CSV file. Currently, the feature only allows 3-month exports.",
+    "customer": "Robert Lee",
+    "priority": {
+      "label": "Low"
+    },
+    "status": {
+      "label": "New Feature Request"
+    },
+    "assignee": "Dev Team",
+    "createdAt": "2024-09-23"
+  },
+  {
+    "id": "#1004",
+    "title": "System Downtime - API Not Responding",
+    "description": "The main public API endpoint is returning a 500 server error since 10:00 AM UTC. This is affecting all integrated partners.",
+    "customer": "Partner Systems",
+    "priority": {
+      "label": "Critical"
+    },
+    "status": {
+      "label": "Investigating"
+    },
+    "assignee": "System Admin",
+    "createdAt": "2024-09-25"
+  },
+  {
+    "id": "#1005",
+    "title": "Typo on 'About Us' Page",
+    "description": "There is a minor spelling mistake in the third paragraph of the 'Our Mission' section. The word 'responsible' is spelled 'responsable'.",
+    "customer": "Internal Review",
+    "priority": {
+      "label": "Low"
+    },
+    "status": {
+      "label": "Resolved"
+    },
+    "assignee": "Emily Davis",
+    "createdAt": "2024-09-20"
+  },
+  {
+    "id": "#1006",
+    "title": "Invoice Discrepancy for August Billing",
+    "description": "Customer was double-charged for their subscription in August. They provided screenshots of both charges. Requires a refund of $59.99.",
+    "customer": "Sarah Chen",
+    "priority": {
+      "label": "High"
+    },
+    "status": {
+      "label": "Open"
+    },
+    "assignee": "Finance Team",
+    "createdAt": "2024-09-25"
+  },
+  {
+    "id": "#1007",
+    "title": "Mobile App Crash on iOS 17.5",
+    "description": "The mobile application crashes immediately upon opening on iPhones running iOS version 17.5. Older iOS versions are unaffected. Affects approximately 15% of users.",
+    "customer": "Various Users",
+    "priority": {
+      "label": "High"
+    },
+    "status": {
+      "label": "In Progress"
+    },
+    "assignee": "Mobile Team",
+    "createdAt": "2024-09-22"
+  },
+  {
+    "id": "#1008",
+    "title": "Cannot Upload Files Larger Than 10MB",
+    "description": "When attempting to upload a file over 10MB, the system times out. Error message: 'File Too Large'. Needs to be increased to 50MB.",
+    "customer": "David Rodriguez",
+    "priority": {
+      "label": "Medium"
+    },
+    "status": {
+      "label": "Open"
+    },
+    "assignee": "John Smith",
+    "createdAt": "2024-09-21"
+  },
+  {
+    "id": "#1009",
+    "title": "Dashboard Metric Miscalculation",
+    "description": "The 'Total Revenue' metric on the main dashboard is showing a value that is 10% lower than the actual value from the database. Needs immediate correction.",
+    "customer": "Management",
+    "priority": {
+      "label": "Critical"
+    },
+    "status": {
+      "label": "Investigating"
+    },
+    "assignee": "System Admin",
+    "createdAt": "2024-09-25"
+  },
+  {
+    "id": "#1010",
+    "title": "Improvement Suggestion: Dark Mode Option",
+    "description": "Suggesting a new feature to add a 'Dark Mode' theme to the user interface for better accessibility and reduced eye strain.",
+    "customer": "James Brown",
+    "priority": {
+      "label": "Low"
+    },
+    "status": {
+      "label": "New Feature Request"
+    },
+    "assignee": "Dev Team",
+    "createdAt": "2024-09-18"
+  },
+  {
+    "id": "#1011",
+    "title": "Incorrect Timezone Display",
+    "description": "All time stamps on the user profile are displaying in UTC instead of the user's selected timezone (PST).",
+    "customer": "Maria Garcia",
+    "priority": {
+      "label": "Medium"
+    },
+    "status": {
+      "label": "Open"
+    },
+    "assignee": "Emily Davis",
+    "createdAt": "2024-09-23"
+  },
+  {
+    "id": "#1012",
+    "title": "Password Reset Email Not Arriving",
+    "description": "Several users are reporting that the password reset email is not being delivered to their inboxes, even after checking spam folders.",
+    "customer": "Multiple Users",
+    "priority": {
+      "label": "High"
+    },
+    "status": {
+      "label": "In Progress"
+    },
+    "assignee": "John Smith",
+    "createdAt": "2024-09-25"
+  },
+  {
+    "id": "#1013",
+    "title": "Feature X Not Available for Tier 1 Users",
+    "description": "Customer upgraded to Tier 1 but is still being prompted to upgrade to use 'Advanced Reporting'. License key needs to be updated.",
+    "customer": "Michael Wong",
+    "priority": {
+      "label": "Medium"
+    },
+    "status": {
+      "label": "Resolved"
+    },
+    "assignee": "Finance Team",
+    "createdAt": "2024-09-20"
+  },
+  {
+    "id": "#1014",
+    "title": "Accessibility Concern: Low Contrast on Buttons",
+    "description": "The contrast ratio between the text and background on 'Submit' buttons is too low, failing standards. Difficult for visually impaired users.",
+    "customer": "User Feedback",
+    "priority": {
+      "label": "Medium"
+    },
+    "status": {
+      "label": "Open"
+    },
+    "assignee": "Mobile Team",
+    "createdAt": "2024-09-21"
+  },
+  {
+    "id": "#1015",
+    "title": "Can't Print Reports from Safari Browser",
+    "description": "The printing functionality within the application is failing specifically on the Safari browser, but works fine on Chrome and Firefox.",
+    "customer": "Jessica Miller",
+    "priority": {
+      "label": "Medium"
+    },
+    "status": {
+      "label": "Open"
+    },
+    "assignee": "Emily Davis",
+    "createdAt": "2024-09-24"
+  }
+]
